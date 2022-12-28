@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FlorianKellermann
+- 👀 I’m interested in Artificial Intelligence and 
+- 🌱 I’m currently learning WebScraping and Bayesian Networks
+- 📫 How to reach me: Florian.Kellermann@philips.com
